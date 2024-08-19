@@ -1,0 +1,7 @@
+Steps for running caesar cipher:
+1. Open Terminal or CMD for Windows
+2.Copy this Repositoy and clone this "git clone https://github.com/wiz..... .git
+3.Now run program by "python caesar.py"
+4.Enter the Input Text "Hello"
+5.Now enter the Shift Key Value "3"
+6.Now choose "e" for Encryption or "d" for Decryption
