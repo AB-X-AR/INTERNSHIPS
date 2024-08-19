@@ -1,0 +1,7 @@
+PASSWORD STRENGTH CHECKER
+Steps:
+1.Copy and Clone this Repo
+2.Open and paste copied in Terminal / CMD(Windows)
+3.python passwd_check.py
+4.Enter your password
+5.Change your password as instructed by this program
