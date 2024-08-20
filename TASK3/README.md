@@ -17,7 +17,8 @@ Complexity Check: The program analyzes the password to ensure it:
 
 **Usage Example**
 
-
-1. Run the program.
-2. Enter the password you want to evaluate.
-3. The program will display whether the password is strong or indicate which criteria it failed to meet.
+1. Open Terminal / CMD(Windows)
+2. Copy and clone this repo "git clone <my_repo.git>"
+3. Type "python pixel.py" and enter
+4. Choose the options for Encryption (1) or Decryption(2)
+5. Give the path of img files for the each requests.
