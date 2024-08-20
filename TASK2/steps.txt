@@ -1,6 +1,0 @@
-Steps:
-1.Open Terminal / CMD(Windows)
-2.Copy and clone this repo "git clone <my_repo.git>"
-3.Type "python pixel.py" and enter
-4.Choose the options for Encryption (1) or Decryption(2)
-5.Give the path of img files for the each requests.
