@@ -17,3 +17,8 @@ This simple keylogger program captures keystrokes and logs them to a text file (
 3. The keylogger will start capturing keystrokes and save them to keylog.txt.
 4. Press Esc to stop the program.
 5. Open keylog.txt to view the captured keystrokes.
+
+**Ethical Concerns and Responsible Use:**
+
+
+Obtain explicit consent before using this code on others' devices. Restrict its use to educational or research purposes in controlled settings. Refrain from using it for malicious activities or unauthorized surveillance. Prioritize transparency and respect for privacy when handling sensitive information.
