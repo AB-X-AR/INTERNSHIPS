@@ -1,4 +1,6 @@
 from pynput import keyboard
+#Make Sure to install this Pynput Library
+#Open Terminal and paste this command "pip install pynput"
 
 def on_press(key):
     try:
