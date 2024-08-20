@@ -24,3 +24,8 @@ This program captures and analyzes network packets, displaying key details such 
 3. The program will start capturing network packets and display the packet details in the terminal.
 4. It will also save the packet details to captured_packets.txt.
 5. Press Ctrl + Z or Ctrl + C to stop the packet capture process.
+
+**Ethical Concerns and Responsible Use:**
+
+
+Obtain explicit consent before using this code on others' devices. Restrict its use to educational or research purposes in controlled settings. Refrain from using it for malicious activities or unauthorized surveillance. Prioritize transparency and respect for privacy when handling sensitive information.
