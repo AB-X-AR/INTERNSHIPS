@@ -1,0 +1,8 @@
+     #          User     Name     =          Admin          #          Passwd     =                                                                                                                                       Root     Is     The     Paswwrod               #          Now     click     esc     to     exit     this     program Key.esc 
+
+ All the values are mixed
+ Lets replace all the special key values with spaces
+ Press Ctrl + F to open Find and replace
+ We got all the credentials values of a user, This log file can be place somewhere ghidden in the target system.
+ Use with the permission on target.
+ Thank You
